@@ -1,0 +1,187 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Ubuntu';
+    margin-top: 100px;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1620px;
+    margin: auto;
+}
+
+.button {
+    display: flex;
+    gap: 15px;
+}
+
+.main .numa {
+
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+
+
+}
+
+.main .block {
+    width: 615px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    margin-top: 35px;
+    display: flex;
+}
+
+.main .block .itto {
+    margin-left: 30px;
+
+}
+
+.main .block .bol {
+    font-size: 14px;
+    padding-top: 36px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    line-height: 15.4px;
+    color: #79A6C3;
+
+}
+
+.main .block .title {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+.main .block .descripsion {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    padding-bottom: 26px;
+    color: #6E9BB8;
+}
+
+.main .block .img {
+    padding: 38px 42px 38px 70px;
+}
+
+
+
+
+.main .block2 {
+    width: 615px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    margin-top: 35px;
+    display: flex;
+}
+
+.main .block2 .itto2 {
+    margin-left: 30px;
+
+}
+
+.main .block2 .bol2 {
+    font-size: 14px;
+    padding-top: 36px;
+    padding-bottom: 10px;
+    font-weight: 400;
+    line-height: 15.4px;
+    color: #79A6C3;
+
+}
+
+.main .block2 .title2 {
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 24.2px;
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+.main .block2 .descripsion2 {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 19.6px;
+    padding-bottom: 26px;
+    color: #6E9BB8;
+}
+
+
+.main .block2 .img2 {
+    padding: 38px 42px 38px 70px;
+}
+
+
+.nuon{
+    width: 1370px;
+    border-radius: 120px, 6px, 120px, 6px;
+    background-color: #F0F4F8;
+    margin-top: 166px;
+}
+
+.nuon{
+    display: flex;
+    gap: 40px;
+    padding: 59px 61px 90px 40px;
+    justify-content: space-between;
+}
+
+
+.nuon .num1 .wer{
+   font-size: 18px;
+font-weight: 700;
+line-height: 25.2px;
+margin-top: 22px;
+}
+
+
+.nuon .num1 .descripsionn{
+  font-size: 16px;
+font-weight: 400;
+line-height: 22.4px;
+color: #6E9BB8;
+
+}
+
+
+
+.nuon .num2 .wer{
+    font-size: 18px;
+ font-weight: 700;
+ line-height: 25.2px;
+ margin-top: 22px;
+ }
+ 
+ 
+ .nuon .num2 .descripsionn{
+   font-size: 16px;
+ font-weight: 400;
+ line-height: 22.4px;
+ color: #6E9BB8;
+ 
+ }
+
+
+ .nuon .num3 .wer{
+    font-size: 18px;
+ font-weight: 700;
+ line-height: 25.2px;
+ margin-top: 22px;
+ }
+ 
+ 
+ .nuon .num3 .descripsionn{
+   font-size: 16px;
+ font-weight: 400;
+ line-height: 22.4px;
+ color: #6E9BB8;
+ 
+ }
