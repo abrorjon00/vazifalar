@@ -120,68 +120,369 @@ body {
 }
 
 
-.nuon{
+
+
+.nuon {
     width: 1370px;
     border-radius: 120px, 6px, 120px, 6px;
     background-color: #F0F4F8;
     margin-top: 166px;
 }
 
-.nuon{
+.nuon {
     display: flex;
     gap: 40px;
     padding: 59px 61px 90px 40px;
     justify-content: space-between;
+
 }
 
 
-.nuon .num1 .wer{
-   font-size: 18px;
+.nuon .num1 .wer {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    margin-top: 22px;
+
+}
+
+
+.nuon .num1 .descripsionn {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #6E9BB8;
+
+}
+
+
+
+.nuon .num2 .wer {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    margin-top: 22px;
+}
+
+
+.nuon .num2 .descripsionn {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #6E9BB8;
+
+}
+
+
+.nuon .num3 .wer {
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 25.2px;
+    margin-top: 22px;
+}
+
+
+.nuon .num3 .descripsionn {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+    color: #6E9BB8;
+
+}
+
+.heror {
+    margin-top: 100px;
+}
+
+.heror .word {
+    font-size: 34px;
+    font-weight: 400;
+    line-height: 37.4px;
+}
+
+.heror .werad {
+    display: flex;
+    gap: 30px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    border-bottom: 2px solid #bfcad5;
+
+}
+
+.heror .werad a {
+    text-decoration: none;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19.2px;
+    color: #6E9BB8;
+
+
+}
+
+.heror .werad span {
+    color: #000000;
+}
+
+
+.heror .butl {
+
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 25.2px;
+    color: #000000;
+
+}
+
+.heror .multi {
+    margin-top: 10px;
+
+}
+
+.heror .multi .prek {
+    width: 1245px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 18px;
+    padding: 10px 18px 10px 15px;
+    align-items: center;
+}
+
+.heror .multi .prek img {
+    margin-right: 11px;
+}
+
+
+.heror .multi .prek .qwer {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+
+.heror .multi .prek2 {
+    width: 1245px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 18px;
+    padding: 10px 18px 10px 15px;
+    align-items: center;
+}
+
+.heror .multi .prek2 img {
+    margin-right: 11px;
+}
+
+.heror .multi .prek2 .qwer {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+
+.heror .multi .prek3 {
+    width: 1245px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 18px;
+    padding: 10px 18px 10px 15px;
+    align-items: center;
+}
+
+.heror .multi .prek3 img {
+    margin-right: 11px;
+}
+
+.heror .multi .prek3 .qwer {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+
+.heror .multi .prek4 {
+    width: 1245px;
+    background-color: #F0F4F8;
+    border-radius: 10px;
+    display: flex;
+    margin-top: 18px;
+    padding: 10px 18px 10px 15px;
+    align-items: center;
+}
+
+.heror .multi .prek4 img {
+    margin-right: 11px;
+}
+
+.heror .multi .prek4 .qwer {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22.4px;
+}
+
+.huttu{
+    
+     border-radius: 64px 6px 64px 6px;
+    background-color: #F0F4F8;
+    margin-top: 186px;
+    display: flex;
+}
+
+.huttu .innfo{
+margin-top: 82px;
+margin-left: 62px;
+}
+
+.huttu .innfo h2{
+
+font-size: 34px;
+font-weight: 400;
+line-height: 37.4px;
+margin-bottom: 20px;
+}
+
+.huttu .innfo h2 span{
+    color: #0000DE;
+font-size: 34px;
 font-weight: 700;
-line-height: 25.2px;
-margin-top: 22px;
+line-height: 37.4px;
+
+
 }
 
 
-.nuon .num1 .descripsionn{
-  font-size: 16px;
+.huttu .innfo p{
+ font-size: 16px;
 font-weight: 400;
 line-height: 22.4px;
 color: #6E9BB8;
+margin-bottom: 35px;
+}
 
+.a1 {
+
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+    background: #0000DE;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 23px 25px 23px 25px;
+    display: inline-block;
+    transition: all 0.5s linear;
+    border-radius: 20px 0px 20px 0px;
+  }
+
+  .a1:hover{
+    background-color: aqua;
+  }
+  
+  
+  
+  .a2 {
+    color: #0000DE;
+    text-decoration: none;
+    border-radius: 6px;
+    background: #fff;
+    font-size: 14px;
+    font-weight: 500;
+    padding: 23px 25px 23px 25px;
+    display: inline-block;
+    transition: all 0.5s linear;
+    border-radius: 20px 0px 20px 0px;
+    
+  }
+  
+  .a2:hover {
+    background-color: aqua
+  }
+
+  .huttu .immg{
+    margin-top: 41px;
+    margin-left: 130px;
+    margin-bottom: 1px;
+  }
+
+  .diagnostika{
+    margin-top: 100px;
+    
+  }
+
+  .fill{
+display: flex;
+    align-items: center;
+    margin-top: 50px;
+    gap: 90px;
+  }
+
+ 
+
+  .diagnostika h2{
+   font-size: 34px;
+font-weight: 400;
+line-height: 37.4px;
+  }
+
+  .diagnostika .selec .bul{
+       font-size: 14px;
+    font-weight: 400;
+    line-height: 15.4px;
+    color: #79A6C3;   
+    margin-top: 26px;
+    padding-top: 26px;
+    padding-bottom: 10px;
+    margin-left: 30px;
+  }
+
+  .diagnostika h2{
+ font-size: 22px;
+font-weight: 700;
+line-height: 24.2px;
+color: #000000;
+margin-left: 30px;
+padding-bottom: 28px;
+  }
+
+  .diagnostika .selec{
+width: 405px;
+background-color: #F0F4F8;
+border-radius: 10px;
+  }
+
+.selec .vellu{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+}
+
+.selec .vellu1{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
+.selec .vellu2{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
+.selec .vellu{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
 }
 
 
 
-.nuon .num2 .wer{
-    font-size: 18px;
- font-weight: 700;
- line-height: 25.2px;
- margin-top: 22px;
- }
- 
- 
- .nuon .num2 .descripsionn{
-   font-size: 16px;
- font-weight: 400;
- line-height: 22.4px;
- color: #6E9BB8;
- 
- }
 
 
- .nuon .num3 .wer{
-    font-size: 18px;
- font-weight: 700;
- line-height: 25.2px;
- margin-top: 22px;
- }
- 
- 
- .nuon .num3 .descripsionn{
-   font-size: 16px;
- font-weight: 400;
- line-height: 22.4px;
- color: #6E9BB8;
- 
- }
+
+
+
