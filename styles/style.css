@@ -486,3 +486,104 @@ border-radius: 10px;
 
 
 
+.diagnostika .selec2 .bull{
+    font-size: 14px;
+ font-weight: 400;
+ line-height: 15.4px;
+ color: #79A6C3;   
+ margin-top: 26px;
+ padding-top: 26px;
+ padding-bottom: 10px;
+ margin-left: 30px;
+}
+
+.diagnostika h2{
+font-size: 22px;
+font-weight: 700;
+line-height: 24.2px;
+color: #000000;
+margin-left: 30px;
+padding-bottom: 28px;
+}
+
+
+     .diagnostika .selec2{
+   width: 405px;
+   background-color: #F0F4F8;
+   border-radius: 10px;
+     }
+   
+   .selec2 .veluu{
+       margin-left: 30px;
+       display: flex;
+       gap: 10px;
+   }
+
+   .selec2 .veluu2{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
+.selec2 .veluu3{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
+
+
+
+
+
+
+
+.diagnostika .selec3 .bull{
+    font-size: 14px;
+ font-weight: 400;
+ line-height: 15.4px;
+ color: #79A6C3;   
+ margin-top: 26px;
+ padding-top: 26px;
+ padding-bottom: 10px;
+ margin-left: 30px;
+}
+
+.diagnostika h2{
+font-size: 22px;
+font-weight: 700;
+line-height: 24.2px;
+color: #000000;
+margin-left: 30px;
+padding-bottom: 28px;
+}
+
+
+     .diagnostika .selec3{
+   width: 405px;
+   background-color: #F0F4F8;
+   border-radius: 10px;
+     }
+   
+   .selec3 .veluu{
+       margin-left: 30px;
+       display: flex;
+       gap: 10px;
+   }
+
+   .selec3 .veluu2{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
+.selec3 .veluu3{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    margin-top: 33px;
+}
+
